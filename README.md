@@ -1,7 +1,21 @@
  <html>
    <head>
-<link rel="rdfalse.css"
-            href="rdfalse.css"
+<style type="text/css">
+  h1{
+   display: flex;
+   text-align: center;
+  color:red;
+}
+body img{
+  pading-rite:900px;
+   display: flex;
+  pading-left:900px;
+  pading-top:280px;
+}
+h2{
+   border: 2px solid orange;
+}
+  </style>
    </head>
   <heder>
    <p><h2>відповідь є неправильна </h2></p>
