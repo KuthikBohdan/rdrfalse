@@ -1,6 +1,7 @@
  <html>
    <head>
-
+<link rel="rdrsheet"
+            href="rdr.css"
    </head>
   <heder>
    <p><h2>відповідь є неправильна </h2></p>
