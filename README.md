@@ -1,20 +1,7 @@
  <html>
    <head>
 <style type="text/css">
-  h1{
-   display: flex;
-   text-align: center;
-  color:red;
-}
-body img{
-  pading-rite:900px;
-   display: flex;
-  pading-left:900px;
-  pading-top:280px;
-}
-h2{
-   border: 2px solid orange;
-}
+  
   </style>
    </head>
   <heder>
