@@ -4,6 +4,7 @@ h1{
   color:red;
 }
 body img{
+   img:center:;
   pading-rite:900px;
    display: flex;
   pading-left:500px;
@@ -11,4 +12,7 @@ body img{
 }
 h2{
    border: 2px solid orange;
+}
+font-size{
+   color:orange;
 }
