@@ -6,6 +6,6 @@
    <p><h2>відповідь є неправильна </h2></p>
   </heder>
    <body>
- <img src="https://w7.pngwing.com/pngs/848/528/png-transparent-ticks-mark-green-right-correct-symbol-sign-okay-checked-positivethumbnail.png"with="400px"height="400px"/>
+ <img src="https://free-png.ru/wp-content/uploads/2021/06/free-png.ru-39.png"with="400px"height="400px"/>
    </body>
 </html>
