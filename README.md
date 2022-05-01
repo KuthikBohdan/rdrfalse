@@ -6,6 +6,6 @@
    <p><h2>відповідь є неправильна </h2></p>
   </heder>
    <body>
- <img src="https://free-png.ru/wp-content/uploads/2021/06/free-png.ru-39.png"with="400px"height="400px"/>
+ <img src="//free-png.ru/wp-content/uploads/2021/06/free-png.ru-39.png"with="400px"height="400px"/>
    </body>
 </html>
