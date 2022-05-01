@@ -1,6 +1,6 @@
  <html>
    <head>
-<link rel="rdrfalsesheet" type="text/css" href="rdrfalse.css" />
+<link rel="rdfalsesheet" type="text/css" href="rdfalse.css" />
    </head>
   <heder>
    <p><h2>відповідь є неправильна </h2></p>
